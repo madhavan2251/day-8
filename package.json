@@ -1,0 +1,13 @@
+{
+  "name": "day8-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": { 
+    "start": "node index.cjs" 
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
+
